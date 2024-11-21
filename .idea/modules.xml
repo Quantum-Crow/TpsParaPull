@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ModeloExamen/ModeloExamen.iml" filepath="$PROJECT_DIR$/ModeloExamen/ModeloExamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Parciales/Parciales.iml" filepath="$PROJECT_DIR$/Parciales/Parciales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Practica integradora 2/Practica integradora 2.iml" filepath="$PROJECT_DIR$/Practica integradora 2/Practica integradora 2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Repo.iml" filepath="$PROJECT_DIR$/.idea/Repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp1/Tp1.iml" filepath="$PROJECT_DIR$/Tp1/Tp1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp2/Tp2.iml" filepath="$PROJECT_DIR$/Tp2/Tp2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp3/Tp3.iml" filepath="$PROJECT_DIR$/Tp3/Tp3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp4/Tp4.iml" filepath="$PROJECT_DIR$/Tp4/Tp4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp5/Tp5.iml" filepath="$PROJECT_DIR$/Tp5/Tp5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp6/Tp6.iml" filepath="$PROJECT_DIR$/Tp6/Tp6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp7/Tp7.iml" filepath="$PROJECT_DIR$/Tp7/Tp7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tp8/Tp8.iml" filepath="$PROJECT_DIR$/Tp8/Tp8.iml" />
+    </modules>
+  </component>
+</project>
